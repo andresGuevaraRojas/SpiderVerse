@@ -1,0 +1,11 @@
+{
+  "name": "spideverse",
+  "version": "1.0.0",
+  "description": "Diseno de software con TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
